@@ -1,6 +1,6 @@
-<img width=300 align="right" src="https://jjxfile.com/wp-content/uploads/2019/07/jjxfile.png?raw=true" />
+<img width=350 align="right" src="https://jjxfile.com/wp-content/uploads/2019/07/jjxfile.png?raw=true" />
 
-## Hi, I'm JJ 👋🏽
+## Hi, I'm JJ 👋🏻
 
 - 👨🏻‍💻 *Digital Strategies*
 - 🎞 *[Sony Alpha Universe Member](https://alphauniverse.com/member/#/jjxfile/) (SonyAlpha)*
