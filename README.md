@@ -1,4 +1,4 @@
-<img width=190 align="right" src="https://jjxfile.com/wp-content/uploads/2019/07/jjxfile.png?raw=true" />
+<img width=300 align="right" src="https://jjxfile.com/wp-content/uploads/2019/07/jjxfile.png?raw=true" />
 
 ## Hi, I'm JJ 👋🏽
 
