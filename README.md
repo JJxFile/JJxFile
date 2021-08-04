@@ -2,6 +2,8 @@
 
 ## Hi, I'm JJ 👋🏻
 
+Although I often perform a wide variety of tasks, I prefer content creation, research, and photography.
+
 - 👨🏻‍💻 *Digital Strategies*
 - 🎞 *[Sony Alpha Universe Member](https://alphauniverse.com/member/#/jjxfile/) (SonyAlpha)*
 - 📸 *Instagram 📸 [Content 📸](https://instagram.com/JJxFile)*
@@ -18,12 +20,13 @@ const JJxFile = {
     consulting: ["Music Industry", "LatinX"]
   }],
   links: [{
-    instagram: "https://instagram.com/JJxFile",
-    youtube: "https://www.youtube.com/c/JJxFile",
-    twitch: "https://twitch.tv/JJxFile",
-    twitter: "https://twitter.com/jjxfile_",
-    tumblr: "https://jjxfiles.tumblr.com",
-    linkedin: "https://www.linkedin.com/company/jjxfile/",
+    Instagram: "https://instagram.com/JJxFile",
+    YouTube: "https://www.youtube.com/c/JJxFile",
+    Twitter: "https://twitter.com/jjxfile_",
+    Tumblr: "https://jjxfiles.tumblr.com",
+    LinkedIn: "https://www.linkedin.com/company/jjxfile/",
+    Wiki: "https://commons.wikimedia.org/wiki/User:JJxFile",
+    Twitch: "https://twitch.tv/JJxFile",
   }],
 }
 ```
