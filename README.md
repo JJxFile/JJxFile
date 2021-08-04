@@ -6,7 +6,7 @@ Although I often perform a wide variety of tasks, I prefer content creation, res
 
 - 👨🏻‍💻 *Digital Strategies*
 - 🎞 *[Sony Alpha Universe Member](https://alphauniverse.com/member/#/jjxfile/) (SonyAlpha)*
-- 📸 *Instagram 📸 [Content 📸](https://instagram.com/JJxFile)*
+- 📸 *Instagram 📸 [@JJxFile📸](https://instagram.com/JJxFile)*
 - 🎬 [*YouTube*](https://www.youtube.com/c/JJxFile?sub_confirmation=1) 
 - 🟣 [*Streamer*](https://twitch.tv/JJxFile)
 
