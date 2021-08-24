@@ -27,6 +27,7 @@ const JJxFile = {
     LinkedIn: "https://www.linkedin.com/company/jjxfile/",
     Wiki: "https://commons.wikimedia.org/wiki/User:JJxFile",
     Twitch: "https://twitch.tv/JJxFile",
+    Google Local Guide: "https://goo.gl/maps/7fjFYvgtraGkoQC37"
   }],
 }
 ```
