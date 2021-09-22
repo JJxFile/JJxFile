@@ -22,7 +22,7 @@ const JJxFile = {
   links: [{
     Instagram: "https://instagram.com/JJxFile",
     YouTube: "https://www.youtube.com/c/JJxFile",
-    Twitter: "https://twitter.com/jjxfile_",
+    Twitter: "https://twitter.com/jaramillo212",
     Tumblr: "https://jjxfiles.tumblr.com",
     LinkedIn: "https://www.linkedin.com/company/jjxfile/",
     Wiki: "https://commons.wikimedia.org/wiki/User:JJxFile",
