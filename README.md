@@ -5,7 +5,7 @@
 Although I often perform a wide variety of tasks, I prefer content creation, research, and photography.
 
 - 👨🏻‍💻 *Digital Strategies* 
-- *[Google Developer](https://g.dev/JJxFile) (JJxFile)
+- [Google Developer](https://g.dev/JJxFile) (JJxFile)
 - 🎞 *[Sony Alpha Universe Member](https://alphauniverse.com/member/#/jjxfile/) (SonyAlpha)*
 - 📸 *Instagram 📸 [@JJxFile📸](https://instagram.com/JJxFile)*
 - 🎬 [*YouTube*](https://www.youtube.com/c/JJxFile?sub_confirmation=1) 
