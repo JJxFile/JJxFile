@@ -2,7 +2,7 @@
 
 ## Hi, I'm JJ 👋🏻
 
-Although I often perform a wide variety of tasks, I prefer content creation, research, and photography.
+Although I often perform a wide variety of tasks, I prefer content creation, research, music and photography.
 
 - 👨🏻‍💻 *Digital Strategies* 
 - [Google Developer](https://g.dev/JJxFile) (JJxFile)
